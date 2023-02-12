@@ -1,0 +1,10 @@
+C:\Users\Danko\source\repos\MemoryGameWFA\bin\Debug\MemoryGameWFA.exe.config
+C:\Users\Danko\source\repos\MemoryGameWFA\bin\Debug\MemoryGameWFA.exe
+C:\Users\Danko\source\repos\MemoryGameWFA\bin\Debug\MemoryGameWFA.pdb
+C:\Users\Danko\source\repos\MemoryGameWFA\obj\Debug\MemoryGameWFA.csprojAssemblyReference.cache
+C:\Users\Danko\source\repos\MemoryGameWFA\obj\Debug\MemoryGameWFA.Form1.resources
+C:\Users\Danko\source\repos\MemoryGameWFA\obj\Debug\MemoryGameWFA.Properties.Resources.resources
+C:\Users\Danko\source\repos\MemoryGameWFA\obj\Debug\MemoryGameWFA.csproj.GenerateResource.cache
+C:\Users\Danko\source\repos\MemoryGameWFA\obj\Debug\MemoryGameWFA.csproj.CoreCompileInputs.cache
+C:\Users\Danko\source\repos\MemoryGameWFA\obj\Debug\MemoryGameWFA.exe
+C:\Users\Danko\source\repos\MemoryGameWFA\obj\Debug\MemoryGameWFA.pdb
