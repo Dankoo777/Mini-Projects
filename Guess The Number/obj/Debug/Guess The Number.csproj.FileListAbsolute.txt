@@ -1,0 +1,10 @@
+C:\Users\Danko\source\repos\Guess The Number\bin\Debug\Guess The Number.exe.config
+C:\Users\Danko\source\repos\Guess The Number\bin\Debug\Guess The Number.exe
+C:\Users\Danko\source\repos\Guess The Number\bin\Debug\Guess The Number.pdb
+C:\Users\Danko\source\repos\Guess The Number\obj\Debug\Guess The Number.csprojAssemblyReference.cache
+C:\Users\Danko\source\repos\Guess The Number\obj\Debug\Guess_The_Number.Form1.resources
+C:\Users\Danko\source\repos\Guess The Number\obj\Debug\Guess_The_Number.Properties.Resources.resources
+C:\Users\Danko\source\repos\Guess The Number\obj\Debug\Guess The Number.csproj.GenerateResource.cache
+C:\Users\Danko\source\repos\Guess The Number\obj\Debug\Guess The Number.csproj.CoreCompileInputs.cache
+C:\Users\Danko\source\repos\Guess The Number\obj\Debug\Guess The Number.exe
+C:\Users\Danko\source\repos\Guess The Number\obj\Debug\Guess The Number.pdb
